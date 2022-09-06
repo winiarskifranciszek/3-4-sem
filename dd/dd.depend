@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1542018958 source:c:\users\franki\desktop\infa\prog\dd\czas.cpp
+	"czas.h"
+	<iostream>
+
+1542018993 c:\users\franki\desktop\infa\prog\dd\czas.h
+	<iostream>
+	<string>
+
+1542018905 source:c:\users\franki\desktop\infa\prog\dd\main.cpp
+	"czas.h"
+	<iostream>
+
+1541153127 c:\users\franki\desktop\infa\prog\dd\czas.cpp
+	"czas.h"
+	<iostream>
+
